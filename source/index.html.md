@@ -17,7 +17,15 @@ includes:
 search: true
 ---
 
-# Introduction....2
+# Introduction
+
+A good way to  explain code........
+
+## sub 1
+## sub 2
+
+
+
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
