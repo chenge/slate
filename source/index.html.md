@@ -24,6 +24,10 @@ A good way to  explain code........
 ## sub 1
 ## sub 2
 
+>
+```ruby
+puts 'hello slate'
+```
 
 
 
